@@ -1,0 +1,30 @@
+export { default as Logo } from "./logo.png";
+export { default as Banner } from "./banner.png";
+export { default as ProfilePic } from "./profile-pic.png";
+export { default as AboutImage } from "./about-image.png";
+export { default as WorkOne } from "./work-1.png";
+export { default as WorkTwo } from "./work-2.png";
+export { default as WorkThree } from "./work-3.png";
+export { default as WorkFour } from "./work-4.png";
+export { default as WorkerRole } from "./worker.png";
+export { default as EmployerRole } from "./employer.png";
+export { default as PrflImage } from "./prfl-img.png";
+export { default as User1 } from "./user-1.png";
+export { default as User2 } from "./user-2.png";
+export { default as User3 } from "./user-3.png";
+export { default as User4 } from "./user-4.png";
+export { default as User8 } from "./user-8.png";
+export { default as UserBlank } from "./user-blank.png";
+export { default as RouteIndication} from "./route-indication.png";
+export { default as Trophy} from "./trophy.png";
+export { default as CardIcon} from "./credit-card.png";
+export { default as WorkCategry} from "./work-category.png";
+export { default as WorkerBg} from "./worker-bg.png";
+export { default as WorkerProfile} from "./worker-profile.png";
+export { default as RateNowBg} from "./rate-now.png";
+export { default as JobdtlPrflBg} from "./jobdtl-prfl.png";
+export { default as EmployeeProfile} from "./employee-profile.png";
+export { default as star} from "./star.png";
+export { default as star1} from "./star1.png";
+
+
